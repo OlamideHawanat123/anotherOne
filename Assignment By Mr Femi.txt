@@ -1,0 +1,5 @@
+Assignment By Mr Femi
+
+1) Test that our simple calculator can add as many numbers as passed in
+2) Add the multiply feature to simple calculator using TDD
+3) Add a multiply feature that doesn't use the "*" operator or any other method for multiplying in java
