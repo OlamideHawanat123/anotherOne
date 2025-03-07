@@ -18,8 +18,7 @@ public class TrianglePrintingProgram {
                 System.out.print(" *");
             }
             System.out.println(" ");
-int seat = (int)(Math.random() * 5);
-print(seat)
+ 
         }
 
 
